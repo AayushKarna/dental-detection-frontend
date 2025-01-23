@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(90deg,
+      hsl(210deg 11% 71%) 0%,
+      hsl(212deg 22% 70%) 3%,
+      hsl(215deg 33% 69%) 8%,
+      hsl(217deg 45% 67%) 14%,
+      hsl(220deg 56% 66%) 22%,
+      hsl(223deg 67% 65%) 33%,
+      hsl(225deg 78% 64%) 46%,
+      hsl(228deg 89% 63%) 57%,
+      hsl(222deg 87% 63%) 68%,
+      hsl(216deg 85% 64%) 76%,
+      hsl(210deg 83% 64%) 83%,
+      hsl(204deg 80% 64%) 89%,
+      hsl(199deg 79% 65%) 93%,
+      hsl(193deg 76% 65%) 97%,
+      hsl(187deg 74% 65%) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  height: 100dvh;
+}
